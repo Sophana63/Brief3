@@ -17,5 +17,5 @@ conda install -c conda-forge emails
 conda install -c plotly plotly
 ```
 
-Pour exécuter le code dans VS Code, ouvrir un des dossier du repository. Ensuite, ouvrir un fichier et la touche F5 pour lancer l'exécution.
+Pour exécuter le code dans VS Code, ouvrir un des dossier du repository (très important, sinon les liens concernant les bases de données seront erronnés). Ensuite, ouvrir un fichier et la touche F5 pour lancer l'exécution.
 Les résultats seront alors affichés dans le terminal.
